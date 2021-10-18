@@ -1,0 +1,38 @@
+﻿body 
+{
+}
+
+.box
+{
+    width:90%;
+    height:550px;
+}
+
+.mid
+{
+    width:600px;
+    
+}
+
+#outer
+{
+    width:800px;
+   
+}
+
+#box
+{
+    width:200px;
+    height:220px;
+    float:left;
+   
+}
+
+#lay
+{
+    border-radius:20px;
+    width:190px;
+    height:120px;
+    background-color:Silver;
+}
+
